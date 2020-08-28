@@ -1,16 +1,23 @@
-### Hi there 👋
+### Oiii me chamo Ana Paula 👋
 
-<!--
-**AnaCeolin/AnaCeolin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me encontre por aqui:
+[![Linkedin Badge](https://img.shields.io/badge/-AnaCeolin-purple?style=flat=suqare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaularomanelliceolin/)](https://www.linkedin.com/in/anapaularomanelliceolin/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:office: Atualmente trabalho como analista de dados <br>
+
+:family: Sou casada e tenho um filho, o Lucca <br>
+
+:mortar_board: Me formei em Estatística pela UFMG e atualmente faço pós graduação em ciência de dados e big data na PUC-MG<br>
+
+:purple_heart: Sempre fui facinada pela estatística e sua versatilidade <br>
+
+:bar_chart: Aprimorando os conhecimentos em R e em Python e aprendendo Power BI <br>
+
+:cat: Tenho 4 gatos e uma tartaruga :turtle: <br>
+
+:star: Nas horas vagas eu adoro ler, assistir séries, cozinhar, brincar com meu filho :baby: <br>
+
+Obrigada pela visita!
+</samp>
