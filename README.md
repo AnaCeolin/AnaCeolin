@@ -9,7 +9,7 @@
 
 :family: Sou casada e tenho um filho, o Lucca <br>
 
-:computer: Sou sócia em uma empresa de consultoria estatística [![Instagram Badge](https://img.shields.io/badge/-AlvesRomanelli-indigo?style=flat=suqare&logo=Linkedin&logoColor=white&link=https://www.instagram.com/alvesromanelli/)](https://www.instagram.com/alvesromanelli/)
+:computer: Sou sócia em uma empresa de consultoria estatística [![Instagram Badge](https://img.shields.io/badge/-AlvesRomanelli-indigo?style=flat=suqare&logo=Instagram&logoColor=white&link=https://www.instagram.com/alvesromanelli/)](https://www.instagram.com/alvesromanelli/)
 
 :mortar_board: Me formei em Estatística pela UFMG e atualmente faço pós graduação em ciência de dados e big data na PUC-MG<br>
 
