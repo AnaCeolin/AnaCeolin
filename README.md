@@ -2,7 +2,7 @@
 
 ## Minhas redes sociais:
 [![Linkedin Badge](https://img.shields.io/badge/-AnaCeolin-purple?style=flat=suqare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapaularomanelliceolin/)](https://www.linkedin.com/in/anapaularomanelliceolin/)
-[![Instagram Badge](https://img.shields.io/badge/-AnaCeolin-DarkOrchid?style=flat=suqare&logo=Linkedin&logoColor=white&link=https://www.instagram.com/anaprc_/)](https://www.instagram.com/anaprc_/)
+[![Instagram Badge](https://img.shields.io/badge/-AnaCeolin-DarkOrchid?style=flat=suqare&logo=Instagram&logoColor=white&link=https://www.instagram.com/anaprc_/)](https://www.instagram.com/anaprc_/)
 
 
 :office: Atualmente trabalho como analista de dados <br>
